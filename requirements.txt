@@ -1,0 +1,7 @@
+streamlit
+deepforest
+albumentations
+opencv-python-headless
+matplotlib
+numpy
+pandas
